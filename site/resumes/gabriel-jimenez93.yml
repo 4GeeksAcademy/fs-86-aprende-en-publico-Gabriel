@@ -50,9 +50,7 @@ basic_info:
 
 education:
     - degree: bachiller tecnico
-      university: iinstituto montenegro
-      # optional
-      university_logo: https://ceeielche.emprenemjunts.es/fotos/44938_foto1.jpg
+      university: iinstituto montenegro SENA
       time: 2008 - 2010
       details: |
         servicio en alojamientos rurales, servicio al cliente camarero de restaurante y todo lo relacionado con la hoteleria desde recepcion hasta cocina.
