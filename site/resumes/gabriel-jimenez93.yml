@@ -1,0 +1,89 @@
+template: "online-cv"
+skin: "blue"
+
+
+basic_info:
+
+  
+    first_name: gabriel angel
+    last_name: jimenez montoya
+    
+  
+    motto: nada es imposible
+
+   
+    focus: ser una mejor version de mi cada dia
+    
+   
+    summary: Soy una persona proactiva a quien le gusta mucho enfocarse en hacer las cosas bien. Me adapto al entorno de manera rápida, aprendo con ligereza y estoy dispuesto a apoyar a quien necesita desde que se pueda. 
+      
+    
+  
+    avatar: https://ca.slack-edge.com/T0BFXMWMV-U07DL0GDNBX-d611b0a11975-512
+  
+    email: gabo0813ajm@gmail.com 
+    phone: +34 664 29 65 15
+    website: .....
+    linkedin: https://www.linkedin.com/mynetwork/grow/?skipRedirect=true
+    
+   
+    github: gabriel-jimenez93
+    
+    twitter: .......
+    stack-overflow: .........
+
+    
+    languages:
+      - idiom: español
+        level: Nativo
+
+        
+
+    
+    interests:
+      - item: futbol
+
+      - item: anime
+      
+      - item: Cooking
+
+
+education:
+    - degree: bachiller tecnico
+      university: iinstituto montenegro
+      # optional
+      university_logo: https://ceeielche.emprenemjunts.es/fotos/44938_foto1.jpg
+      time: 2008 - 2010
+      details: |
+        servicio en alojamientos rurales, servicio al cliente camarero de restaurante y todo lo relacionado con la hoteleria desde recepcion hasta cocina.
+        
+experiences:
+    - role: Student
+      time: Currently
+      company: 4Geeks Academy
+      details: Practicing with javascript! 
+
+    
+   
+
+projects:
+   
+skills:
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: JavaScript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
